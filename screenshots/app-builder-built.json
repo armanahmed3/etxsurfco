@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ETX Surf Co",
+      "hasCanvas": false,
+      "bodyTextLen": 4638,
+      "bodyTextHash": "a626a2f3d6b45a796add911edc09304d0734e9b477d8897933dd261329ccdeaa",
+      "bodyTextPrefix": "317 State Highway 110 S, Whitehouse, TX 75791 Hours (903) 471-32",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ETX Surf Co",
+      "hasCanvas": false,
+      "bodyTextLen": 4499,
+      "bodyTextHash": "07a5b0b6488a1e6f05c2b7cbd882957c5a5cfb7b3b49267eab2e10ef486e7512",
+      "bodyTextPrefix": "WHITEHOUSE, TEXAS · LAKE COUNTRY Your perfect ride lives on this",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
